@@ -1,4 +1,4 @@
-# coding_resources
+# Coding Resources
 List of resources for learning/improving or related to coding.
 
 
