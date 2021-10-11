@@ -24,8 +24,13 @@ Swirl:learn R in R: https://swirlstats.com/
 
 LA Users presentations archive: https://github.com/laRusers/presentations
 
+rspatialdata: https://rspatialdata.github.io/
+
+
 
 ## Bash/Shell
+
+
 
 ## Other
 
