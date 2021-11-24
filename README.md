@@ -39,3 +39,5 @@ Missing Semester of your CS Education: https://missing.csail.mit.edu/
 Advide for Whiteboard Coding Interviews: https://fpcastle.com/2021/10/03/coding-interviews.html
 
 Snakemake: https://snakemake.readthedocs.io/en/v5.0.0/getting_started/examples.html
+
+Learning Algorithms O'Reilly (book): https://learning.oreilly.com/library/view/learning-algorithms/9781492091059/
